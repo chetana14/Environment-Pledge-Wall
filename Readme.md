@@ -11,7 +11,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Watch the video]](https://www.veed.io/view/4eae7cca-c6c5-4d14-a636-c788cd4c4d46?sharingWidget=true&panel=share)
+[[Watch the video]](https://www.veed.io/view/4eae7cca-c6c5-4d14-a636-c788cd4c4d46?sharingWidget=true&panel=share)
 
 This project is built upon the MERN stack. Tech used: React, Material UI, Axios, Redux, Figma, MongoDB, Google Analytics, Netlify.
 
@@ -28,10 +28,10 @@ Given below is the functionality:
 ## Getting Started
 
 Below are some links to get started:
-Netlify:  https://environment-pledge-wall.netlify.app/
-Figma: https://bitly.ws/ZtFZ
-Google Analytics: https://bitly.ws/ZtG8
-MongoDB Atlas: https://bitly.ws/ZtGk
+* Netlify:  https://environment-pledge-wall.netlify.app/
+* Figma: https://bitly.ws/ZtFZ
+* Google Analytics: https://bitly.ws/ZtG8
+* MongoDB Atlas: https://bitly.ws/ZtGk
 
 To install and run on the local machine:
 1. Clone the repo
