@@ -38,7 +38,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Pledgw Wall][product-screenshot]](https://www.veed.io/view/4eae7cca-c6c5-4d14-a636-c788cd4c4d46?sharingWidget=true&panel=share)
+[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://youtu.be/vt5fpE0bzSY)
+
 
 This project is built upon the MERN stack. Tech used: React, Material UI, Axios, Redux, Figma, MongoDB, Google Analytics, Netlify.
 
