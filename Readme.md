@@ -7,22 +7,7 @@
   </a>
 
   <h3 align="center">Environment Pledge Wall</h3>
-
-  <p align="center">
-   
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
-  </p>
-</div>
-
-
+</div>uploa
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -50,23 +35,19 @@
   </ol>
 </details>
 
-
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Pledgw Wall][product-screenshot]](https://www.veed.io/view/4eae7cca-c6c5-4d14-a636-c788cd4c4d46?sharingWidget=true&panel=share)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+This project is built upon the MERN stack. Tech used: React, Material UI, Axios, Redux, Figma, MongoDB, Google Analytics, Netlify.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
+Given below is the functionality:
+* Sign Up for first-time users. Login and logout
+* Introduction section with social plugins to share your pledge.
+* A call to action button to encourage users to pledge.
+* Form for taking a pledge. Display of pledge wall.
+* Message to save environment :smile:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
