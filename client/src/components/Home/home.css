@@ -1,0 +1,106 @@
+#main-header {
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    text-shadow: 0 0 1px rgba(0,0,0,.05), 0 1px 2px rgba(0,0,0,.3);
+    color: white;
+    position: relative;
+    background: #000;
+    display: flex;
+    justify-content: center;
+    padding: 40px;
+  }
+  #main-header:after {
+    content: '';
+    display: block;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: url("../../images/envirnment.png") repeat center center;
+    opacity: .6;
+  }
+.row {
+    display: flex;
+    flex-wrap: wrap;
+  }
+.img-circle-div {
+    flex: 2%;
+    padding: 45px;
+    text-align: center;
+}
+.row img {
+    border-radius: 50%;
+    box-shadow: 0 1px 2px rgba(0,0,0,.25);
+}
+.headerListItem {
+    color: #689240;
+    margin: 0;
+    line-height: 1.2;
+}
+.call-to-action {
+    background: #EDEFEE;
+    border-bottom: 1px solid #ddd;
+    width: 100%;
+    padding: 20px;
+}
+.call-to-action p {
+    float: left;
+    color: rgba(0, 0, 0, 0.54);
+    font-weight: bold;
+}
+.call-to-action a {
+    float: right;
+}
+.cta-container {
+    width: 100%;
+    max-width: 600px;
+	margin: auto;
+}
+.btn {
+    display: inline-block;
+    padding: 15px 20px;
+    color: #fff;
+    margin: 5px 0 0 0;
+    font-family: "Lato","Helvetica Neue",Helvetica,sans-serif;
+    line-height: 1.8;
+    text-align: center;
+    font-weight: 400;
+    text-decoration: none;
+    text-shadow: 0 0 1px rgba(0,0,0,.05),0 1px 2px rgba(0,0,0,.3);
+    background: #79a94b;
+    vertical-align: middle;
+    cursor: pointer;
+    border: .1em solid #689240;
+    border-radius: .3em;
+    white-space: nowrap;
+    -webkit-transition: background-color .2s ease-out;
+    -webkit-transition-property: background-color;
+    -webkit-transition-duration: .2s;
+    -webkit-transition-timing-function: ease-out;
+    -webkit-transition-delay: initial;
+    -moz-transition: background-color .2s ease-out;
+    -o-transition: background-color .2s ease-out;
+    -ms-transition: background-color .2s ease-out;
+    transition: background-color .2s ease-out;
+    transition-property: background-color;
+    transition-duration: .2s;
+    transition-timing-function: ease-out;
+    transition-delay: initial
+}
+.btn:hover,:focus {
+    text-decoration: none;
+    background: #689240;
+    color: #fff
+}
+.btn:active,.active {
+    outline: 0;
+    background-image: none
+}
+.cf:before, .cf:after {
+    content: "";
+    display: table;
+}
+.cf:after {
+    clear: both;
+}
